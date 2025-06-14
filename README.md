@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce Web Application
 
-This project is a simple e-commerce website where users can browse products, add or remove them from the cart, and view the total price. It is built using HTML, CSS, and JavaScript.
+This project is a simple e-commerce website where users can browse products, add or remove them from the cart, and view the total price. It is built using HTML, SCSS, and JavaScript.
 
 ## ⚙️ Features
 
@@ -12,7 +12,7 @@ This project is a simple e-commerce website where users can browse products, add
 ## 🛠️ Technologies Used
 
 - HTML
-- CSS
+- SCSS
 - JavaScript
 - [JSON Server] is used to serve product data locally.
 
